@@ -32,6 +32,7 @@ MyPromise.prototype.then = function (resolveCb, rejectCb) {
 
 MyPromise.prototype.resolve = function (value) {
   this.state = "fulfilled";
+  this.value = value;
   this.resolveCbs.forEach((cb) => cb(value));
 };
 
