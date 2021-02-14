@@ -1,8 +1,8 @@
 const assert = require("assert");
 module.exports = {
-  it: function (testCase, fn) {
+  it: async function (testCase, fn) {
     try {
-      fn();
+      await fn();
       console.log(`✅\x1b[1;32m Passed. \x1b[0m${testCase}`);
     } catch (err) {
       console.log(`❌\x1b[1;31m Failed. \x1b[0m${testCase}`);
