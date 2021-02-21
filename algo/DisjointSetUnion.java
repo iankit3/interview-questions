@@ -2,6 +2,7 @@ import java.util.*;
 
 //https://www.hackerearth.com/submission/49976799/
 //https://www.hackerearth.com/submission/key/22868ff6b1154189b9bffbc27e36773c
+// https://leetcode.com/discuss/general-discussion/1072418/disjoint-set-union-dsuunion-find
 
 /**
  *  Sample input below 

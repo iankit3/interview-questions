@@ -1,6 +1,8 @@
 // Island Problem
 // Twilio
 // A variation of it - `Rotten Apple` was asked in RSA Securities
+// This problem is classified as `Multi-source BFS problem`
+//     - ex - https://leetcode.com/problems/map-of-highest-peak/
 
 var arr = [
     [0, 1, 0, 1],

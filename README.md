@@ -1,6 +1,9 @@
 # Interview guide
 
+
+ # Zero to hero post LC - https://leetcode.com/discuss/career/216554/From-0-to-clearing-UberAppleAmazonLinkedIn
 ## Preparation
+ - https://leetcode.com/discuss/interview-question/448285/List-of-questions-sorted-by-common-patterns
 
 ### DS/Algo
   **Topics to cover**
